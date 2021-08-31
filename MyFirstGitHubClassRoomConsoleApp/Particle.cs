@@ -8,6 +8,7 @@ namespace MyFirstGitHubClassRoomConsoleApp
 {
     class Particle
     {
+
         public bool Hot { get; set; }
         public Particle()
         {
